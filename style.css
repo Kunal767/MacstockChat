@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.headimg img{
+    width: 80px;
+    height: 100px;
+    margin: auto;
+    display: block;
+    padding-top: 30px;
+}
+
+.apptitle{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    align-items: center;
+}
+
+.messagecontainer{
+    align-items: center;
+    border: 1px solid black;
+    height: 60vh;
+    overflow-y: auto;
+}
+
+.message{
+    width: 40%;
+    background-color: rgb(39, 32, 32);
+    color: white;
+    padding: 10px;
+    border: 1px solid rgb(9, 124, 153);
+    margin: 15px 5px;
+}
+
+.left{
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+}
+
+#sendcontainer{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#msginp{
+    width: 80%;
+    margin: 0.65rem;
+}
+
+.btn-primary{
+    text-align: center;
+    align-items: center;
+    word-wrap: normal;
+    /* padding: 0; */
+}

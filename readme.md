@@ -6,7 +6,7 @@ A simple realtime chat application created by MacstockTech for chatting with you
 
 # How it is created?
 
-Nodejs is used as backend. HTML5, CSS3, JAVASCRIPT and BOOTSTRAP 4 is used for frontend. Socket IO framework is also used for realtime functionality.
+Nodejs is used as backend. HTML5, CSS3, JAVASCRIPT and BOOTSTRAP 4 is used for frontend. Socket IO framework is also used for realtime functionality. Nodejs server of the application is hosted on [heroku.com](https://nodejs-chatserver.herokuapp.com/) and this application is using the server.
 
 # What is it's purpose?
 
